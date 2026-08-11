@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+
+bridge/jobs/*
+!bridge/jobs/.gitkeep
+bridge/outcomes/*
+!bridge/outcomes/.gitkeep
+bridge/memory/*
+!bridge/memory/.gitkeep
