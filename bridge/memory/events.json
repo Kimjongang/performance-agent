@@ -195,6 +195,37 @@
       "x_status": "not_applicable",
       "email_status": "not_applicable",
       "content_update_needed": false
+    },
+    "ticketplus_641abfeafd8760018e1f02fadcf3d4c0": {
+      "event_id": "ticketplus_641abfeafd8760018e1f02fadcf3d4c0",
+      "event_name": "UVERworld LIVE TOUR 2026 in TAIPEI",
+      "artist": "",
+      "genres": [],
+      "description": "日本搖滾天團 UVERworld 首次台北專場震撼來襲🔥 UVERworld LIVE TOUR 2026 in TAIPEI 舉辦確定！ 以「OVER THE WORLD」為名， 憑藉搖滾、電子與嘻哈的多元曲風，打破傳統樂團框架！ 《BLEACH 死神》、《我的英雄學院》、《青之驅魔師》等人氣動畫主題曲， 多首熱血代表作陪伴無數樂迷成長，爆發力十足的現場演出和直擊人心的歌詞，不斷突破自我，寫下無數令人難忘的傳奇舞台！ 11/21 Zepp New Taipei 準備好迎接 UVERworld 的熱血現場！ UVERworld LIVE TOUR 2026 in TAIPEI 演出時間：2026年11月21日 (六) 17：30 入場 / 19：00 開演 演出地點：Zepp New Taipei 售票時間：2026/8/15 (六) 11：00 AM 票價：1F 搖滾區 NT 3,200 / NT 2,800 2F 座區 NT 3,200 / 站位 2,200 售票系統：遠大售票系統 Ticket Plus 主辦單位：好玩專賣店 / 大國文化",
+      "performance_dates": [
+        "2026-11-21T19:00:00"
+      ],
+      "city": "新北市",
+      "venue": "Zepp New Taipei",
+      "ticket_platform": "TICKETPLUS",
+      "sale_time": null,
+      "url": "https://ticketplus.com.tw/activity/641abfeafd8760018e1f02fadcf3d4c0",
+      "first_seen_at": "2026-08-12T11:29:18Z",
+      "last_updated_at": "2026-08-12T11:29:18Z",
+      "classification": {
+        "matched": false,
+        "needs_research": false,
+        "genres": [
+          "Rock",
+          "Electronic",
+          "Hip-Hop"
+        ],
+        "relevance_score": 0.1,
+        "reason": "UVERworld is a Japanese rock band blending rock, electronic, and hip-hop elements. User prefers Jazz, Soul, and R&B which are fundamentally different musical traditions with distinct rhythmic, harmonic, and cultural foundations. No meaningful overlap exists."
+      },
+      "x_status": "not_applicable",
+      "email_status": "not_applicable",
+      "content_update_needed": false
     }
   }
 }
