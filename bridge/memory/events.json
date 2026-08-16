@@ -291,6 +291,41 @@
       "x_status": "not_applicable",
       "email_status": "not_applicable",
       "content_update_needed": false
+    },
+    "opentix_2052234828732231681": {
+      "event_id": "opentix_2052234828732231681",
+      "event_name": "2026 Taiwan Connection音樂節—《巔峰之上》",
+      "artist": "",
+      "genres": [
+        "音樂"
+      ],
+      "description": "布拉姆斯曾在眾多評選作品中看見德弗札克的獨特才華，不僅讓德弗札克獲得獎項，也促成作品出版。本場音樂會中將重磅呈現兩人的巔峰之作「德弗札克大提琴協奏曲」及「布拉姆斯第四號交響曲」。 前者，大提琴獨奏在交響之中展開，寬闊而深厚，與樂團交織前行，同時保有孤獨沈思；而在布拉姆斯的第四號交響曲，音樂以近乎脆弱的嘆息開始，不斷向前推進，逐步鋪展，卻反覆回望，最終在終樂章的變奏中，走向強烈、近乎悲劇式的宣示。 本場音樂會由長年活躍於國際樂壇的大提琴家王健擔綱獨奏，音樂總監胡乃元領軍，邀集九位來自歐美樂團的聲部首席與 TC 室內樂團共同演出。廣受樂迷喜愛的紐約愛樂大提琴派崔克・吉（Patrick Jee）與低音提琴首席提莫西・柯布（Timothy Cobb）、韓國首爾大學單簧管教授趙仁赫（Inn-Hyuck Cho）、柏林廣播交響樂團低音管首席柳成權（Sung-Kwon You）、洛杉磯愛樂法國號首席安德魯・貝恩（Andrew Bain），以及臺灣子弟，現任香港管弦樂團雙簧管聯合首席王譽博（Wang Yu-Po）將再度來臺；今年新加入的音樂家包括前柏林愛樂中提琴首席馬泰・蘇茨（Máté Szücs），以及現任柏林國家歌劇院管弦樂團長笛和長號首席克蘿伊・杜佛賽（Chloé Dufossez）和菲利佩・艾爾維斯（Filipe Alves）。 從德弗札克的大提琴聲，到布拉姆斯末世啓示，「巔峰之上」將引您走入音樂深處。 曲目 德弗札克：B小調大提琴協奏曲 Antonin Dvořák : Cello Concerto in b minor Op.104 布拉姆斯：第四號交響曲 E小調，作品98 Johannes Brahms: Symphony No. 4 in E minor, Op. 98 演出名單 大提琴｜王健 Cello ｜Jian Wang 音樂總監｜胡乃元 Music Director ｜Nai-Yuan Hu TC 室內樂團 TC Chamber Orchestra 及 九位國際聲部首席 前柏林愛樂中提琴首席 馬泰・蘇茨 Máté Szücs 紐約愛樂大提琴前代理副首席 派崔克・吉 Patrick Jee 紐約愛樂低音提琴首席 提莫西・柯布 Timothy Cobb 柏林國家歌劇院管弦樂團長笛首席 克蘿伊・杜佛賽 Chloé Dufossez 香港管弦樂團雙簧管聯合首席 王譽博 Wang Yu-Po 前美國大都會歌劇院樂團單簧管首席 趙仁赫 Inn-Hyuck Cho 柏林廣播交響樂團低音管首席 柳成權 Sung-Kwon You 洛杉磯愛樂法國號首席 安德魯・貝恩 Andrew Bain 柏林國家歌劇院管弦樂團長號首席 菲利佩・艾爾維斯 Filipe Alves ∮ 2026 Taiwan Connection音樂節 ∮ 2026 勇源x TC 國際室內樂系列 《舒伯特的沙龍時光》 玉山文教基金會輕鬆自在場—TC《弦聲2+3+4》",
+      "performance_dates": [
+        "2026-08-28T19:30:00",
+        "2026-08-29T19:30:00",
+        "2026-08-30T19:30:00"
+      ],
+      "city": "嘉義市",
+      "venue": "嘉義市政府文化局音樂廳",
+      "ticket_platform": "OPENTIX",
+      "sale_time": "2026-06-03T12:00:00",
+      "url": "https://www.opentix.life/event/2052234828732231681",
+      "first_seen_at": "2026-08-16T04:20:37Z",
+      "last_updated_at": "2026-08-16T04:20:37Z",
+      "classification": {
+        "matched": false,
+        "needs_research": false,
+        "genres": [
+          "Classical",
+          "Symphony",
+          "Chamber Music"
+        ],
+        "relevance_score": 0.1,
+        "reason": "此為古典交響音樂會，演出德弗札克大提琴協奏曲與布拉姆斯第四號交響曲，屬於西方古典音樂範疇，與使用者偏好的 Jazz、Soul、R&B 在音樂語意、演奏形式、即興特質、節奏律動等核心元素上差異顯著，無相關性。"
+      },
+      "x_status": "not_applicable",
+      "email_status": "not_applicable",
+      "content_update_needed": false
     }
   }
 }
