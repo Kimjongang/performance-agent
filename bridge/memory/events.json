@@ -326,6 +326,74 @@
       "x_status": "not_applicable",
       "email_status": "not_applicable",
       "content_update_needed": false
+    },
+    "opentix_2052270446085345280": {
+      "event_id": "opentix_2052270446085345280",
+      "event_name": "2026 勇源x TC 國際室內樂系列 《舒伯特的沙龍時光》",
+      "artist": "",
+      "genres": [
+        "音樂"
+      ],
+      "description": "在朋友相聚的沙龍裡，歌聲與樂音交織，舒伯特的旋律在空氣中緩緩展開，有人圍坐聆聽，有人翻閱詩集，也有人輕聲交流。這樣的場景，正是19世紀維也納「Schubertiade」的日常：沒有距離的聆聽，與彼此交流的親密時光。本場音樂會，便以這樣的氛圍為起點，帶領觀眾走進舒伯特音樂最自然動人的狀態。 藝術歌曲如同一首首微型的心靈劇場。從奔放到焦灼，從輕盈到沉靜，直到最後淡淡的回望，這些作品展現他對詩與語言的敏銳，也讓旋律承載細微而深層的情感。本場由以細膩聲音與對文字的敏銳見長的當代次女高音莎夏．庫克（Sasha Cooke）擔綱演出，她長年活躍於紐約大都會歌劇院等國際舞臺，並曾兩次榮獲葛萊美獎。此次將與臺灣鋼琴家王佩瑤攜手詮釋。 同樣的特質，也延伸至Ｆ大調八重奏之中。這部作品在編制與篇幅上更為開展，甚至帶有近似交響曲的規模與鋪陳。然而，在這樣的結構中，旋律依然保有舒伯特獨特的歌唱性，聲部之間維持著傾聽與回應的親密關係。弦樂與管樂交織，彷彿將歌曲中的情緒放大與延伸，使原本屬於個人內心的呢喃，在聲部之間逐一顯現。 音樂總監暨小提琴家胡乃元集結活躍於國際樂壇的音樂家，參與演出的包括趙仁赫（Inn-Hyuck Cho，韓國首爾大學單簧管教授）、柳成權（Sung-Kwon You，柏林廣播樂團低音管首席）、安德魯・貝恩（Andrew Bain，洛杉磯愛樂法國號首席）、派崔克・吉（Patrick Jee，紐約愛樂大提琴）與低音大提琴首席提莫西・柯布（Timothy Cobb，紐約愛樂低音大提琴首席）；以及台灣優秀新生代音樂家許軒豪（小提琴）及蔡士賢（中提琴）共同演繹這部作品。 邀請您走進這場「舒伯特的沙龍時光」，共享音樂流動變化的每一刻。 曲目 舒伯特：藝術歌曲〈甘尼美〉、〈紡車旁的葛麗卿〉、〈圖勒國王〉、〈致西爾維亞〉、〈你是安寧〉、〈分身〉、〈信鴿〉 Schubert : Lieder Ganymed, Gretchen am Spinnrade, Der König in Thule, An Sylvia, Du bist die Ruh, Der Doppelgänger, Die Taubenpost 舒伯特：Ｆ大調八重奏，作品803 Schubert: Octet in F Major, D. 803 演出 次女高音｜莎夏．庫克 Sasha Cooke 鋼琴｜王佩瑤 Pei-Yao Wang 小提琴｜胡乃元 Nai-Yuan Hu、許軒豪 Hsuan-Hao Hsu 中提琴｜蔡士賢 Shih-Hsien Tsai 大提琴｜派崔克・吉 Patrick Jee 低音提琴｜提莫西・柯布 Timothy Cobb 單簧管｜趙仁赫 Inn-Hyuck Cho 低音管｜柳成權 Sung-Kwon You 法國號｜安德魯・貝恩 Andrew Bain ∮ 2026 Taiwan Connection音樂節 ∮ 2026 Taiwan Connection音樂節—《巔峰之上》 玉山文教基金會輕鬆自在場—TC《弦聲2+3+4》",
+      "performance_dates": [
+        "2026-09-02T19:30:00",
+        "2026-09-04T19:30:00",
+        "2026-09-06T14:30:00"
+      ],
+      "city": "臺北市",
+      "venue": "國家兩廳院演奏廳",
+      "ticket_platform": "OPENTIX",
+      "sale_time": "2026-06-03T12:00:00",
+      "url": "https://www.opentix.life/event/2052270446085345280",
+      "first_seen_at": "2026-08-18T11:02:05Z",
+      "last_updated_at": "2026-08-18T11:02:05Z",
+      "classification": {
+        "matched": false,
+        "needs_research": false,
+        "genres": [
+          "Classical",
+          "Chamber Music",
+          "Art Song"
+        ],
+        "relevance_score": 0.1,
+        "reason": "此為古典室內樂與藝術歌曲音樂會，演出舒伯特作品。雖然舒伯特的旋律具歌唱性，但音樂語意、演出形式、樂器編制與曲目皆屬古典音樂範疇，與使用者偏好的 Jazz、Soul、R&B 在音樂語言、即興特質、節奏律動與和聲系統上差異顯著，無直接關聯或融合風格。"
+      },
+      "x_status": "not_applicable",
+      "email_status": "not_applicable",
+      "content_update_needed": false
+    },
+    "opentix_2051921256186417153": {
+      "event_id": "opentix_2051921256186417153",
+      "event_name": "《甜蜜的小步舞曲－圈圈寶貝親子音樂會》",
+      "artist": "",
+      "genres": [
+        "親子"
+      ],
+      "description": "最受幼師歡迎的律動金曲創作團隊來了！ 結合古典與兒童流行樂的年度限定音樂盛典！ 原創兒童流行×古典音樂×圈圈寶貝 專為親子設計、活潑生動的音樂饗宴，深入淺出，最適合小朋友的第一場音樂會。 現場室內樂演奏，零距離體驗古典和流行融合樂曲，美感啟蒙，圈圈寶貝一同演繹，緊抓孩子注意力，寓教於樂，引領進入音樂世界，共創親子美好記憶！ 多首圈圈兒童精彩原創歌曲、古典樂章和圈圈寶貝演出，感受不同凡響的觸動時光 ! 圈圈音樂魔法城堡將舉辦月圓音樂慶典， 小公主、小王子，你們準備好了嗎? 邀請盛裝打扮前來，舞會就要開始囉 ! 《甜蜜的小步舞曲－圈圈寶貝親子音樂會》係延續 2015 年起策畫的圈圈兒童親子音樂劇場、2017-19 年《圈圈寶貝魔法星座》親子音樂故事演唱會城市巡演、2020 年《張正傑的大提琴世界－圈圈寶貝親子音樂會》，以孩子視野出發的故事、角色，影像，融入音樂互動，讓孩童一邊觀看表演也能共同參與，深刻體驗共鳴；讓孩子輕鬆融入，對古典樂不再卻步。2025《甜蜜的小步舞曲–圈圈寶貝親子音樂會》在親子劇場演出，獲得親子觀眾熱烈迴響。2026年升級製作，加入全新曲目與生動有趣的橋段，以音符譜寫一章章充滿奇幻色彩的探索。 邀請您與孩子一同走進劇場，在樂聲中，創造親子間最真摯甜美的永恆記憶，並為孩子的藝術啟迪帶來新的火花。 【創作團隊】 華語流行音樂天王天后御用、資深音樂人劉志宏，打造無數經典歌曲，包括周華健《朋友》、陶晶瑩《姊姊妹妹站起來》、梁靜茹《暖暖》等。 從音樂本質出發，創立圈圈兒童品牌，專為親子打造全新原創華語兒童流行音樂。從 2012 年圈圈兒童推出第一張《兒童樂園》於風潮音樂、誠品、博客來與各大線上平台發行逾20張專輯，《雞蛋搖滾樂》、《洗澡歌》、《媽咪》更是風行各大幼兒園、孩子琅琅上口的金曲，獲得許多家長與幼教老師的讚賞與喜愛肯定。 不同一般印象的童謠，圈圈兒童音樂巧妙運用流行音樂的平易特質，融合多元曲風及古典編曲，歌詞取材自生活、具想像畫面，讓孩子們自然隨著歌曲唱和，身體跟著音樂律動，開心唱出歡樂，從中輕鬆學習生活。 【演出團隊】 圈圈兒童音樂／圈圈寶貝 室內樂 小提琴：郭子綺、陳婉慈 中提琴：林倩宇 大提琴：黃薇諭 單簧管：簡立亞 演員：佘祖逸、王雯婷、江翊寧、陳俐穎、翁淑華、黃雅雯",
+      "performance_dates": [
+        "2026-09-19T14:30:00",
+        "2026-09-20T10:30:00"
+      ],
+      "city": "臺北市",
+      "venue": "臺北市政大樓親子劇場",
+      "ticket_platform": "OPENTIX",
+      "sale_time": "2026-05-20T12:00:00",
+      "url": "https://www.opentix.life/event/2051921256186417153",
+      "first_seen_at": "2026-08-18T11:02:11Z",
+      "last_updated_at": "2026-08-18T11:02:11Z",
+      "classification": {
+        "matched": false,
+        "needs_research": false,
+        "genres": [
+          "Children's Music",
+          "Classical Crossover"
+        ],
+        "relevance_score": 0.1,
+        "reason": "This is a children's concert combining classical music with original children's pop songs, targeting families with young children. While it incorporates classical elements, the musical style, target audience, and artistic approach are fundamentally different from Jazz, Soul, and R&B. The event focuses on educational entertainment for children rather than the sophisticated harmonic language, improvisation, and emotional depth characteristic of the user's preferred genres."
+      },
+      "x_status": "not_applicable",
+      "email_status": "not_applicable",
+      "content_update_needed": false
     }
   }
 }
